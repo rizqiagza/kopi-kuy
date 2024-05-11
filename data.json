@@ -11,7 +11,7 @@
             "foto": "https://redo-coffee.com/wp-content/uploads/2022/12/Arabika-Box.png",
             "nama": "Minahasa Arabica",
             "size": "500 Gram",
-            "harga": "100.000",
+            "harga": "200.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
@@ -85,21 +85,21 @@
     "snack": [
         {
             "nama": "Kentang Goreng",
-            "size": "100gr",
+            "size": "100 Gram",
             "harga": "10.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Cireng",
-            "size": "100 gr",
+            "size": "100 Gram",
             "harga": "10.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/17488531/pexels-photo-17488531/free-photo-of-makan-siang-pedesaan-nuansa-kayu-nasi.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Waffle",
-            "size": "350 gr",
+            "size": "350 Gram",
             "harga": "10.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/3023740/pexels-photo-3023740.jpeg?auto=compress&cs=tinysrgb&w=600"
