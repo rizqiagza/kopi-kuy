@@ -101,7 +101,7 @@ function updateTampilan() {
 
 }
 var sumber = "https://rikikurnia.com/prakerja/api/kopi"
-var sumber2 = "data.json?v-2"
+var sumber2 = "data.json?v-3"
 
 $.getJSON(sumber2).then(data => {
     data_mentah = data

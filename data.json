@@ -11,20 +11,20 @@
             "foto": "https://redo-coffee.com/wp-content/uploads/2022/12/Arabika-Box.png",
             "nama": "Minahasa Arabica",
             "size": "500 Gram",
-            "harga": "200.000",
+            "harga": "100.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "https://i.pinimg.com/564x/63/6f/db/636fdb5491ec65553a7d302926036bea.jpg",
             "nama": "Congenis Arabica",
-            "size": "500 Gram",
+            "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         },
         {
             "nama": "Arabica Absenia",
             "size": "500 Gram",
-            "harga": "130.000",
+            "harga": "10.000",
             "link": "#",
             "foto": "https://i.pinimg.com/564x/0d/48/3a/0d483a480409e8df7cb03ab79f5cb686.jpg"
         }
@@ -33,14 +33,14 @@
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
-            "size": "500 Gram",
+            "size": "100 Gram",
             "harga": "80.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Robusta",
-            "size": "500 Gram",
+            "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         },
@@ -85,22 +85,22 @@
     "snack": [
         {
             "nama": "Kentang Goreng",
-            "size": "100 Gram",
-            "harga": "50.000",
+            "size": "100gr",
+            "harga": "30.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Cireng",
-            "size": "100 Gram",
-            "harga": "40.000",
+            "size": "100 gr",
+            "harga": "10.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/17488531/pexels-photo-17488531/free-photo-of-makan-siang-pedesaan-nuansa-kayu-nasi.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Waffle",
-            "size": "350 Gram",
-            "harga": "60.000",
+            "size": "350 gr",
+            "harga": "40.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/3023740/pexels-photo-3023740.jpeg?auto=compress&cs=tinysrgb&w=600"
         }
