@@ -86,21 +86,21 @@
         {
             "nama": "Kentang Goreng",
             "size": "100 Gram",
-            "harga": "10.000",
+            "harga": "40.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Cireng",
             "size": "100 Gram",
-            "harga": "10.000",
+            "harga": "30.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/17488531/pexels-photo-17488531/free-photo-of-makan-siang-pedesaan-nuansa-kayu-nasi.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "nama": "Waffle",
             "size": "350 Gram",
-            "harga": "10.000",
+            "harga": "20.000",
             "link": "#",
             "foto": "https://images.pexels.com/photos/3023740/pexels-photo-3023740.jpeg?auto=compress&cs=tinysrgb&w=600"
         }
